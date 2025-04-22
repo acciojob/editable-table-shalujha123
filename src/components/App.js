@@ -26,7 +26,7 @@ const App = () => {
       }
     });
     if (updatedId.length > 0) {
-      console.log("Edited rows: ", updatedId);
+      console.log("Edited rows:", updatedId);
     }
   }
 
